@@ -14,4 +14,4 @@ let,s start with github pages.
 ## Styling
 Create a file name styles.css
 
-![img](https://prnt.sc/21311y6)
+https://prnt.sc/21311y6
